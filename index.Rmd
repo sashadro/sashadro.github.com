@@ -9,11 +9,30 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## About
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Hello, my name is Sasha, and I am currently in studying for my future profession.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Living in Belgrade, Serbia, and I`am working in Klinical center of Serbia.
+
+Happily married with Aleksandra.
+
+## Interests
+
+*Everything about data management
+
+*Everything about fishing
+
+*Everything about cars
+
+## Projects
+
+*www.sashadro.github.io
+
+## Contact
+
+*sashadro.data@gmail.com
+
 
 ```{r cars}
 summary(cars)
